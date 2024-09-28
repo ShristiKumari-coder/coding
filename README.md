@@ -1,2 +1,3 @@
 # coding
-Staring Git journey with my first repository
+Starting Git journey with my first repository.
+Author- Shristi Kumari
